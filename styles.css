@@ -2,16 +2,34 @@ body {
 background-color: hsl(212, 45%, 89%);
 }
 
-.box {
+ .box {
     background-color: white;
     text-align: center;
     height: 200px;
-    width: 180px;
-    height: 300px;
+    width: 200px;
+    height: 310px;
     margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    border-radius: 15px;
 }
 
 .imgCode {
-    height: 150px;
+    height: 175px;
     padding-top: 10px;
+    border-radius: 15px
+}
+
+.top {
+    font-family: "Outfit";
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px;
+}
+.bottom {
+    font-family: "Outfit";
+    font-size: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 400;
 }
