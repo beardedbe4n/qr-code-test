@@ -1,2 +1,17 @@
+body {
+background-color: hsl(212, 45%, 89%);
+}
+
 .box {
-background-color: hsl(212, 45%, 89%);}
+    background-color: white;
+    text-align: center;
+    height: 200px;
+    width: 180px;
+    height: 300px;
+    margin: 0 auto;
+}
+
+.imgCode {
+    height: 150px;
+    padding-top: 10px;
+}
